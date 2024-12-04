@@ -1,0 +1,2 @@
+docs--n1.globby
+docs--n2.globby
